@@ -1,5 +1,5 @@
 # Repositório de teste
 
-![logo@2x.png](Foto GIT)
+![](logo@2x.png)
 
-Este é um repositório de testes - segunda versão
+Este é um repositório de testes - terceira versão
