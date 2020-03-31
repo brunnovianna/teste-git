@@ -2,4 +2,4 @@
 
 ![](logo@2x.png)
 
-Este é um repositório de testes - terceira versão
+Aqui no repositório você verá alguns arquivos que serão constantemente editados, excluídos, e blalblalblavaba
