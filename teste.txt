@@ -5,3 +5,4 @@ Foi feito como teste de workflow do git. :)
 Agora, uma alteração para que dois repositórios locais fiquem diferentes.
 
 Essa linha foi modificada
+Linha nova aqui pra conflitar
