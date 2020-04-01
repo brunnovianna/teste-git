@@ -6,3 +6,5 @@ Agora, uma alteração para que dois repositórios locais fiquem diferentes.
 
 Essa linha foi modificada
 Linha nova aqui pra conflitar
+
+Tem mais um arquivo legal pra incluir
