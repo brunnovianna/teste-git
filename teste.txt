@@ -3,5 +3,3 @@ Esse é mais um arquivo para o repositório.
 Foi feito como teste de workflow do git. :)
 
 Agora, uma alteração para que dois repositórios locais fiquem diferentes.
-
-Nova linha
